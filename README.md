@@ -24,8 +24,8 @@ This script runs as a secondary Telegram client session and monitors when you re
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/rvnikita/autostar.git
-cd autostar
+git clone https://github.com/rvnikita/telegram-autostar.git
+cd telegram-autostar
 ```
 
 ### 2. Create a virtual environment (recommended)
